@@ -1,0 +1,4 @@
+{
+  "extends": "@system-ui/ts-config/base.json",
+  "include": ["src"]
+}
