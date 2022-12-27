@@ -42,7 +42,7 @@ export const Button = styled('button', {
           backgroundColor: '$gray200',
         },
       },
-      secoundary: {
+      secondary: {
         color: '$ignite500',
         border: '2px solid $ignite500',
 

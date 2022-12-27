@@ -8,6 +8,13 @@ export default {
     src: 'https://source.unsplash.com/random/300×300/?profile',
     alt: 'random avatar profiles',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Default: StoryObj<AvatarProps> = {}
