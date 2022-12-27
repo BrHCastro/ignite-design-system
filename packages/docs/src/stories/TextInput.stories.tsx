@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/react'
 import { Box, Text, TextInput, TextInputProps } from '@system-ui/react'
 
 export default {
-  title: 'Forms/TextInput',
+  title: 'Forms/Text Input',
   component: TextInput,
   args: {},
   decorators: [
