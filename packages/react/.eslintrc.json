@@ -1,3 +1,3 @@
 {
-  "extends": "@system-ui/eslint-config"
+  "extends": "@syst-ui/eslint-config"
 }

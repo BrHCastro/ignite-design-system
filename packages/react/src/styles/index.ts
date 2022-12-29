@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@system-ui/tokens'
+} from '@syst-ui/tokens'
 
 export const {
   styled,

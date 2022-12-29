@@ -1,5 +1,5 @@
 {
-  "name": "@system-ui/docs",
+  "name": "@syst-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -28,10 +28,10 @@
   },
   "dependencies": {
     "@storybook/addon-a11y": "^6.5.15",
-    "@system-ui/eslint-config": "*",
-    "@system-ui/react": "*",
-    "@system-ui/tokens": "*",
-    "@system-ui/ts-config": "*",
+    "@syst-ui/eslint-config": "*",
+    "@syst-ui/react": "*",
+    "@syst-ui/tokens": "*",
+    "@syst-ui/ts-config": "*",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",

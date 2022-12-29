@@ -1,5 +1,5 @@
 {
-  "name": "@system-ui/eslint-config",
+  "name": "@syst-ui/eslint-config",
   "license": "MIT",
   "private": true,
   "main": "index.js",

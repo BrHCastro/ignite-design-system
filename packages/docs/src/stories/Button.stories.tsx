@@ -1,6 +1,6 @@
 import { ArrowRight } from 'phosphor-react'
 import type { Meta, StoryObj } from '@storybook/react'
-import { Button, ButtonProps } from '@system-ui/react'
+import { Button, ButtonProps } from '@syst-ui/react'
 
 export default {
   title: 'Forms/Button',

@@ -1,5 +1,5 @@
 import { getContrast } from 'polished'
-import { colors } from '@system-ui/tokens'
+import { colors } from '@syst-ui/tokens'
 
 export function ColorsGrid() {
   return Object.entries(colors).map(([key, color]) => {
