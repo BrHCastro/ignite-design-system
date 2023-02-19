@@ -1,0 +1,2 @@
+import{A as t}from"./index.a525aa8d.js";import"./index.45cc2df2.js";import"./iframe.17c87e69.js";import"./index.a8295d85.js";import"./jsx-runtime.b6bbe4d1.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://source.unsplash.com/random/300\xD7300/?profile",alt:"random avatar profiles"},argTypes:{src:{control:{type:"text"}}}},l={},c={args:{src:void 0}},i=["Default","WithFallback"];export{l as Default,c as WithFallback,i as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.08e79b48.js.map
